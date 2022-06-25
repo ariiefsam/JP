@@ -3,7 +3,8 @@ pkg update && pkg upgrade
 pkg update 
 pkg install nano 
 pkg install zsh 
-pkg install curl cd termux-ohmyzsh sh install.sh ~/.termux/colors.sh ~/.termux/fonts.sh sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/mas https://github.com/safar 126/domino 
+pkg install curl
+https://github.com/ariiefsam 126/domino 
 pip2 isntall php 
 pkg install bash
 https://github.com/ariiefsam/HC123 
@@ -19,7 +20,7 @@ pip2 install mechanize
 pkg update && рkg uрgrаdе
 pkg іnѕtаll руthоn
 pkg install git 
-gіt сlоnе httрѕ://gіthub.соm/kаrjоk/tеrkеу 
+gіt сlоnе httрѕ://gіthub.соm
 cd 
 terkey python terkey.py
 pyton domino.py 
@@ -32,3 +33,11 @@ cd
 cp 
 mv 
 rm
+cd domino
+python2 domino.py
+https://github.com/ariiefsam/JP
+s1
+git clone
+high domino island
+186/domino
+
