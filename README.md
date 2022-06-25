@@ -43,4 +43,12 @@ high domino island
 id : 360232473
 user : redmi5
 https://github.com/ariiefsam/ariiefsam.git
+echo "# ariiefsam" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ariiefsam/ariiefsam.git
+git push -u origin main
+
 
